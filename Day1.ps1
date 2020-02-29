@@ -10,6 +10,7 @@ $Floor = [math]::abs($charCount1 - $charCount2)
 $Floor
 $Floor = 0
 
+#Puzzle Part 2
 
 $input = $input.ToCharArray()
 

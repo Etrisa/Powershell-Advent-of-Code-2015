@@ -29,8 +29,6 @@ Foreach ($character in $input){
     write-Host $i
 }
 
-
-
 cmd /c pause | out-null
 
 <#
